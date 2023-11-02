@@ -1,0 +1,12 @@
+.navbar
+{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    align-items: center;
+}
+.Links a
+{
+    margin: 0 4px;
+}
